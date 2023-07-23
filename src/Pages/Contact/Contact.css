@@ -1,0 +1,7 @@
+.contact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(90, 81, 207);
+  height: 91vh;
+}

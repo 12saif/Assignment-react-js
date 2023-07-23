@@ -1,0 +1,18 @@
+.navbar {
+  background: #1A1A40;
+}
+.links {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
+  padding-left: 4rem;
+  height: 4rem;
+  width: 40rem;
+}
+.link{
+  color: white ;
+  font-size: 1.8rem;
+  text-decoration: none;
+}
